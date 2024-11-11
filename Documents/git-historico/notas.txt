@@ -1,0 +1,15 @@
+# Notas de Estudo - Aula 1
+
+Data: 10/11/2024
+
+- Tema: Introdução à Inteligência Artificial
+- Definição: A Inteligência Artificial (IA) é um campo da ciência da computação que visa criar máquinas que possam realizar tarefas que normalmente requerem inteligência humana.
+- Exemplos de IA: Assistentes virtuais, carros autônomos, reconhecimento de voz e imagem.
+
+Principais conceitos:
+1. **Aprendizado de Máquina (Machine Learning)**: Subcampo da IA que envolve algoritmos que aprendem com dados.
+2. **Redes Neurais Artificiais**: Sistemas que tentam simular o funcionamento do cérebro humano.
+3. **Algoritmos de busca**: Estratégias para encontrar soluções para problemas específicos.
+
+Referências para estudo adicional:
+- Livro: "Inteligência Artificial: Estruturas e Estratégias para Resolução Complexa de Problemas" de George F. Luger
